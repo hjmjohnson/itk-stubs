@@ -1,6 +1,10 @@
-from typing import Any, Dict, List, Optional, Sequence
+from typing import Any, Dict, List, Optional, Sequence, Union
 
 fileiotype: Any
+
+# The following function only exists in the interface file
+# to be used to verify that this file was read by the IDE
+def itk_invalid_interface_test_function( dummy_arg1: int, dummy_arg2: Optional[float] = None ) -> str: ...
 
 def output(input: Any): ...
 def image(input: Any): ...
