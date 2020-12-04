@@ -1,4 +1,4 @@
-import itk.ITKOptimizersBasePython
+import itk.itkImageToImageFilterBPython
 from itk.support import itkHelpers as itkHelpers
 from typing import Any
 

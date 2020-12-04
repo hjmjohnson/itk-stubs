@@ -1,4 +1,4 @@
-import itk.itkCostFunctionPython
+import itk.itkOptimizerParameterScalesEstimatorPython
 from typing import Any
 
 class _SwigNonDynamicMeta(type):

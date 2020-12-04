@@ -1,4 +1,4 @@
-import itk.itkImageRegionPython
+import itk.itkVariableLengthVectorPython
 from typing import Any
 
 class _SwigNonDynamicMeta(type):

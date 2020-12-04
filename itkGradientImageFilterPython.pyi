@@ -1,4 +1,4 @@
-import itk.itkVariableLengthVectorPython
+import itk.itkImageBoundaryConditionPython
 from itk.support import itkHelpers as itkHelpers
 from typing import Any
 

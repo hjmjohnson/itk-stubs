@@ -1,4 +1,4 @@
-import itk.itkIndexPython
+import itk.itkLabelObjectLinePython
 from typing import Any
 
 class _SwigNonDynamicMeta(type):

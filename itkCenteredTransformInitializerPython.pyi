@@ -1,4 +1,4 @@
-import itk.itkVersorPython
+import itk.itkAffineTransformPython
 from typing import Any
 
 class _SwigNonDynamicMeta(type):

@@ -1,4 +1,4 @@
-import itk.itkVariableLengthVectorPython
+import itk.itkSamplePython
 from itk.support import itkHelpers as itkHelpers
 from typing import Any
 

@@ -1,4 +1,4 @@
-import itk.itkPointPython
+import itk.itkOffsetPython
 from typing import Any
 
 class _SwigNonDynamicMeta(type):

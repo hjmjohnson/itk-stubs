@@ -1,4 +1,4 @@
-import itk.itkMeshSourcePython
+import itk.itkSymmetricSecondRankTensorPython
 from itk.support import itkHelpers as itkHelpers
 from typing import Any
 

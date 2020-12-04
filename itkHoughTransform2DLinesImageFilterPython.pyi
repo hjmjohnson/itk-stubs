@@ -1,4 +1,4 @@
-import itk.itkContinuousIndexPython
+import itk.itkSpatialObjectPointPython
 from itk.support import itkHelpers as itkHelpers
 from typing import Any
 

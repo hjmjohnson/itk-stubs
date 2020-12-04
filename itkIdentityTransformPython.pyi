@@ -1,4 +1,4 @@
-import itk.itkVariableLengthVectorPython
+import itk.itkMatrixPython
 from typing import Any
 
 class _SwigNonDynamicMeta(type):

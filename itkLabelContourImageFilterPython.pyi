@@ -1,4 +1,4 @@
-import itk.itkScanlineFilterCommonPython
+import itk.itkInPlaceImageFilterAPython
 from itk.support import itkHelpers as itkHelpers
 from typing import Any
 

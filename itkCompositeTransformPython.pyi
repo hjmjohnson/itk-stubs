@@ -1,4 +1,4 @@
-import itk.itkArray2DPython
+import itk.itkMultiTransformPython
 from typing import Any
 
 class _SwigNonDynamicMeta(type):

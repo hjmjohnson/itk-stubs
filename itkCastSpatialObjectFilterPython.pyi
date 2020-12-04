@@ -1,4 +1,4 @@
-import itk.itkPolygonSpatialObjectPython
+import itk.itkGaussianSpatialObjectPython
 from typing import Any
 
 class _SwigNonDynamicMeta(type):

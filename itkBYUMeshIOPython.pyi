@@ -1,4 +1,4 @@
-import itk.itkMeshIOBasePython
+import itk.pyBasePython
 from typing import Any
 
 class _SwigNonDynamicMeta(type):

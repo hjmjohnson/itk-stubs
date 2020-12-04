@@ -1,4 +1,4 @@
-import itk.itkLevelSetFunctionPython
+import itk.itkImageToImageFilterAPython
 from itk.support import itkHelpers as itkHelpers
 from typing import Any
 

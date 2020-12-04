@@ -1,4 +1,4 @@
-import itk.itkNodePairPython
+import itk.itkFastMarchingStoppingCriterionBasePython
 from itk.support import itkHelpers as itkHelpers
 from typing import Any
 

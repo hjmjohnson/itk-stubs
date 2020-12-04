@@ -1,4 +1,4 @@
-import itk.pyBasePython
+import itk.vnl_vectorPython
 from typing import Any
 
 class _SwigNonDynamicMeta(type):

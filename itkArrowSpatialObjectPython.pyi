@@ -1,4 +1,4 @@
-import itk.itkContinuousIndexPython
+import itk.itkImageRegionPython
 from typing import Any
 
 class _SwigNonDynamicMeta(type):

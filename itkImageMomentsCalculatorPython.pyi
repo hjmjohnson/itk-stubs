@@ -1,4 +1,4 @@
-import itk.itkRGBPixelPython
+import itk.itkMatrixOffsetTransformBasePython
 from typing import Any
 
 class _SwigNonDynamicMeta(type):

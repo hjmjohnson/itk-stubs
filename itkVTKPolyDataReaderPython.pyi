@@ -1,4 +1,4 @@
-import itk.itkArrayPython
+import itk.itkPointSetPython
 from itk.support import itkHelpers as itkHelpers
 from typing import Any
 

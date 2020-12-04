@@ -1,4 +1,4 @@
-import itk.itkCovariantVectorPython
+import itk.itkVectorPython
 from typing import Any
 
 class _SwigNonDynamicMeta(type):

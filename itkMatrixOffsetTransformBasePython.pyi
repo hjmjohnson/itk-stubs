@@ -1,4 +1,4 @@
-import itk.itkTransformBasePython
+import itk.itkSymmetricSecondRankTensorPython
 from typing import Any
 
 class _SwigNonDynamicMeta(type):

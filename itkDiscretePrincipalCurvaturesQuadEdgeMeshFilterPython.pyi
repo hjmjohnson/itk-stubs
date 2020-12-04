@@ -1,4 +1,4 @@
-import itk.itkImageRegionPython
+import itk.itkArrayPython
 from itk.support import itkHelpers as itkHelpers
 from typing import Any
 

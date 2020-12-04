@@ -1,4 +1,4 @@
-import itk.itkImageRegionPython
+import itk.itkFiniteDifferenceFunctionPython
 from typing import Any
 
 class _SwigNonDynamicMeta(type):

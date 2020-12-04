@@ -1,4 +1,4 @@
-import itk.itkFixedArrayPython
+import itk.stdcomplexPython
 from typing import Any
 
 class _SwigNonDynamicMeta(type):

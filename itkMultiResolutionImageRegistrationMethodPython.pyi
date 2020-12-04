@@ -1,4 +1,4 @@
-import itk.itkFunctionBasePython
+import itk.itkMatrixOffsetTransformBasePython
 from itk.support import itkHelpers as itkHelpers
 from typing import Any
 

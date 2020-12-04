@@ -1,4 +1,4 @@
-import itk.itkRGBPixelPython
+import itk.itkRGBAPixelPython
 from typing import Any
 
 class _SwigNonDynamicMeta(type):

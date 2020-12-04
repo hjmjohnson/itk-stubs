@@ -1,4 +1,4 @@
-import itk.itkContinuousIndexPython
+import itk.itkRGBPixelPython
 from itk.support import itkHelpers as itkHelpers
 from typing import Any
 

@@ -1,4 +1,4 @@
-import itk.itkNodePairPython
+import itk.itkFastMarchingStoppingCriterionBasePython
 from typing import Any
 
 class _SwigNonDynamicMeta(type):

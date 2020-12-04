@@ -1,4 +1,4 @@
-import itk.itkArray2DPython
+import itk.itkMatrixPython
 from typing import Any
 
 class _SwigNonDynamicMeta(type):

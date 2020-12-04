@@ -1,4 +1,4 @@
-import itk.itkImageToImageFilterCommonPython
+import itk.itkLabelImageToLabelMapFilterPython
 from itk.support import itkHelpers as itkHelpers
 from typing import Any
 

@@ -1,4 +1,4 @@
-import itk.itkContinuousIndexPython
+import itk.itkMetaConverterBasePython
 from typing import Any
 
 class _SwigNonDynamicMeta(type):

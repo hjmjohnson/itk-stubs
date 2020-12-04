@@ -1,4 +1,4 @@
-import itk.itkNeighborhoodPython
+import itk.itkBoxImageFilterPython
 from itk.support import itkHelpers as itkHelpers
 from typing import Any
 

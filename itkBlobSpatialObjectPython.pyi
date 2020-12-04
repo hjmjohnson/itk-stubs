@@ -1,4 +1,4 @@
-import itk.itkContinuousIndexPython
+import itk.itkSpatialObjectPointPython
 from typing import Any
 
 class _SwigNonDynamicMeta(type):

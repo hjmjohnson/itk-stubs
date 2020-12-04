@@ -1,4 +1,4 @@
-import itk.itkSamplePython
+import itk.itkImageToImageFilterCommonPython
 from itk.support import itkHelpers as itkHelpers
 from typing import Any
 

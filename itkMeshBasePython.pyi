@@ -1,4 +1,4 @@
-import itk.itkArrayPython
+import itk.itkPointSetPython
 from typing import Any
 
 class _SwigNonDynamicMeta(type):
